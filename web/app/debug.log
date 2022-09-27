@@ -1,0 +1,4 @@
+[27-Sep-2022 01:52:29 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=4608 in C:\xampp\htdocs\Blog-main\web\wp\wp-includes\wp-db.php on line 1753
+[27-Sep-2022 01:52:29 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\Blog-main\web\wp\wp-includes\wp-db.php on line 1753
+[27-Sep-2022 01:52:32 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=4608 in C:\xampp\htdocs\Blog-main\web\wp\wp-includes\wp-db.php on line 1753
+[27-Sep-2022 01:52:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\Blog-main\web\wp\wp-includes\wp-db.php on line 1753
